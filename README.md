@@ -1,3 +1,4 @@
+https://dev.to/envoy_/150-badges-for-github-pnk
 ## Olá, meu nome é Gustavo! 👋
 
 
@@ -7,7 +8,8 @@
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxttavo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxttavo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Um pouco sobre mim 🏆
@@ -24,6 +26,4 @@
 </div><br/>
 
 Estudando html, css e JavaScript,e quando bate a vontade de ver backend, um pouco de java também.
-
-
 
