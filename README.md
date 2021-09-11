@@ -5,9 +5,9 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=(55)%20(83)%2099676-5975)
 
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxttavo&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxttavo&theme=radical&langs_count=10&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
