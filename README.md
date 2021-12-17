@@ -13,10 +13,9 @@
 
 ## Um pouco sobre mim 🏆
 
-- Atualmente estou no P4 em Ciências da Computação e também no projeto de extensão Fábrica de Software.
+- Atualmente estou no P5 em Ciências da Computação e também estou no projeto de extensão Fábrica de Software.
 - Por enquanto não sei minha área dentro do mundo de TI, porém estou sempre me expondo as mais diversas áreas para, assim, poder me encontrar o quanto antes.
-
-
+- Atualmente meu foco principal é programação Web, dessa forma, as tecnologias que mais domino são HTML e CSS,e Javascript. Também venho estudando bastante React.
 
 
 ## Tecnologias que uso no meu dia 🚀 
@@ -26,8 +25,10 @@
     <img align="center" alt ="css" src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt ="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt ="javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt ="javascript" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /
+    
 </div><br/>
 
-- Hoje estou estudando HTML, CSS e JavaScript, e quando bate a vontade de ver backend, um pouco de Java também.
+
 
 
