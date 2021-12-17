@@ -15,7 +15,7 @@
 
 - Atualmente estou no P5 em Ciências da Computação e também estou no projeto de extensão Fábrica de Software.
 - Por enquanto não sei minha área dentro do mundo de TI, porém estou sempre me expondo as mais diversas áreas para, assim, poder me encontrar o quanto antes.
-- Atualmente meu foco principal é programação Web, dessa forma, as tecnologias que mais domino são HTML e CSS,e Javascript. Também venho estudando bastante React.
+- Atualmente meu foco principal é programação Web, dessa forma, as tecnologias que mais domino são HTML e CSS e Javascript. Também venho estudando bastante React.
 
 
 ## Tecnologias que uso no meu dia 🚀 
