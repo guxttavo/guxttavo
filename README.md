@@ -13,9 +13,9 @@
 
 ## Um pouco sobre mim 🏆
 
-- Atualmente estou no P5 em Ciências da Computação e também estou no projeto de extensão Fábrica de Software.
-- Por enquanto não sei minha área dentro do mundo de TI, porém estou sempre me expondo as mais diversas áreas para, assim, poder me encontrar o quanto antes.
-- Atualmente meu foco principal é programação Web, dessa forma, as tecnologias que mais domino são HTML e CSS e Javascript. Também venho estudando bastante React.
+• Sou estudante, e atualmente estou no quinto período de Ciências da Computação. Hoje meu foco principal é ganhar experiência, nas mais diversas áreas da tecnologia.
+• Como profissional, meu foco é no fullstack. Dessa forma, as tecnologias que mais domino são HTML, SCSS, Javascript/Typescript e Java. Em relação a frameworks, meu foco atual é em Angular e Spring Boot.
+• Apesar de estar na área de desenvolvimento, estou aberto a outras áreas. Tenho muito interesse em conhecer mais sobre o back-end, além de outras áreas como Cloud , Ciências de Dados e Segurança da Informação.
 
 
 ## Tecnologias que uso no meu dia 🚀 
