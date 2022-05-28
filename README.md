@@ -14,7 +14,9 @@
 ## Um pouco sobre mim 🏆
 
 • Sou estudante, e atualmente estou no quinto período de Ciências da Computação. Hoje meu foco principal é ganhar experiência, nas mais diversas áreas da tecnologia.
+
 • Como profissional, meu foco é no fullstack. Dessa forma, as tecnologias que mais domino são HTML, SCSS, Javascript/Typescript e Java. Em relação a frameworks, meu foco atual é em Angular e Spring Boot.
+
 • Apesar de estar na área de desenvolvimento, estou aberto a outras áreas. Tenho muito interesse em conhecer mais sobre o back-end, além de outras áreas como Cloud , Ciências de Dados e Segurança da Informação.
 
 
