@@ -4,7 +4,6 @@
   <img width="49%" height="195px" right="30px" src="https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Barbosa da Cunha github stats" /> 
   <img width="49%" height="195px" right="30px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxttavo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-/* ![Contribution](https://activity-graph.herokuapp.com/graph?username=guxttavo&theme=gotham&hide_border=true&area=true)*/
 <div style = "display: inline_block"><br/>
     <img align="center" alt ="html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt ="SAAS" src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
