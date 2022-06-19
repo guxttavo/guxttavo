@@ -6,9 +6,7 @@
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=guxttavo&theme=gotham&hide_border=true&area=true)
-
-## Tecnologias que uso no meu dia 🚀 
-
+ 
 <div style = "display: inline_block"><br/>
     <img align="center" alt ="html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt ="SAAS" src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
