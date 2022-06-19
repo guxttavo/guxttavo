@@ -1,14 +1,11 @@
-## Olá, meu nome é Gustavo! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Gustavo Barbosa da Cunha&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
+<div align="center">  
+  <img width="49%" height="195px" right="30px" src="https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Barbosa da Cunha github stats" /> 
+  <img width="49%" height="195px" right="30px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxttavo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavow-barbosas/)
-
-
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&theme=radical&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxttavo&theme=radical&langs_count=10&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Contribution](https://activity-graph.herokuapp.com/graph?username=guxttavo&theme=gotham&hide_border=true&area=true)
 
 ## Um pouco sobre mim 🏆
 
@@ -17,6 +14,8 @@
 • Como profissional, meu foco é no fullstack. Dessa forma, as tecnologias que mais domino são HTML, SCSS, Javascript/Typescript e Java. Em relação a frameworks, meu foco atual é em Angular e Spring Boot.
 
 • Apesar de estar na área de desenvolvimento, estou aberto a outras áreas. Tenho muito interesse em conhecer mais sobre o back-end, além de outras áreas como Cloud , Ciências de Dados e Segurança da Informação.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavow-barbosas/)
 
 
 ## Tecnologias que uso no meu dia 🚀 
@@ -34,5 +33,5 @@
 
 </div><br/>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
