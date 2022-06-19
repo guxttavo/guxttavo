@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Gustavo+Barbosa;I+am+a+Fullstack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="240px" src="https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Barbosa da Cunha github stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=guxttavo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Barbosa da Cunha github stats" /> 
   <img width="49%" height="180px" left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxttavo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <div style = "display: inline_block"><br/>
