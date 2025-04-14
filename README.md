@@ -24,9 +24,16 @@
 
 ## Um pouco sobre mim 🏆
 
-• Sou estudante, e atualmente estou no oitavo período de Ciências da Computação. Hoje meu foco principal é ganhar experiência, nas mais diversas áreas da tecnologia, mas tendo como principal foco a área de desenvolvimento.
+• Atualmente, meu foco está em ganhar cada vez mais maturidade técnica e pessoal dentro da área de TI, com foco na área de desenvolvimento web. 
 
-• Como profissional, meu foco é no fullstack. Dessa forma, as tecnologias que mais domino são HTML, CSS, Javascript/Typescript e C#. Em relação a frameworks, meu foco é .NET .
+• No Backend, tenho experiências com Spring e Dotnet, com a utilização em projetos DDD, TDD e Repository Pattern.
+
+• No Frontend, minha maior experiência é com Angular, versões 15 até as mais atuais, além das principais tecnologias frontend, como Javascript/Typescript, HTML e CSS.
+
+• Com Banco de Dados, tenho experiência na elaboração de consultas em diferentes níveis de complexidade, além da criação de triggers e procedures para automação e otimização de processos.
+
+ • Também possuo experiências como Desenvolvedor Freelancer, tendo atuado com na construção de sistemas para diversos nichos, com a utilização principalmente de .Net e Angular
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavow-barbosas/)
 
